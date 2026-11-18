@@ -1,0 +1,18 @@
+{
+ "Avqsharednorm/batch": {
+  "gamma_0": 1.4174055606126785,
+  "gamma_1": 7.4055450558662415
+ },
+ "Avqsharednorm/kmeans": {
+  "gamma_0": 1.4174055606126785,
+  "gamma_1": 5.769740104675293
+ },
+ "Avqdeltanorm/batch": {
+  "gamma_0": 1.417405217885971,
+  "gamma_1": 5.3115114569664
+ },
+ "Avqdeltanorm/kmeans": {
+  "gamma_0": 1.417405217885971,
+  "gamma_1": 4.029676198959351
+ }
+}

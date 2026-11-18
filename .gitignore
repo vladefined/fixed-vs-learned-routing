@@ -1,0 +1,18 @@
+# environment and IDE
+.venv/
+.idea/
+.pytest_cache/
+__pycache__/
+*.pyc
+uv.lock
+
+# data, runs, weights (large, reproduced by the code)
+data*/
+runs*/
+pilot*/
+*.pt
+*.npy
+*.npz
+*.bin
+*.tar
+*.gz

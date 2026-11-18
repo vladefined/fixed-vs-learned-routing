@@ -1,0 +1,18 @@
+[project]
+name = "fixed-vs-learned-routing"
+version = "0.1.0"
+description = "Small-scale experiments on fixed vs learned routing in transformers"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface-hub",
+    "matplotlib",
+    "numpy",
+    "pyarrow",
+    "scipy",
+    "tokenizers",
+    "torch",
+]
+
+[dependency-groups]
+dev = ["pytest"]
